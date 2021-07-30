@@ -1,0 +1,139 @@
+/* 智能路由到精选配件开头 */
+.whole-all{
+    width: 1200px;
+    height: 675px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+#whole{
+    width: 1200px;
+    height: 648px;
+    margin: 0 auto;
+}
+/* 头部开始 */
+#whole-top{
+    width: 1200px;
+    height: 32px;
+    margin: 27px 0 12px 0;
+}
+#whole-top h2{
+    font-size: 26px;
+    color: #333;
+    line-height: 26px;
+    font-weight: 400;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+#wholes{
+    height: 32px;
+    margin: 0 0 0 28px;
+    float: left;
+    padding: 0;
+    font-size: 14px;
+    color: #999;
+}
+#wholes li{
+    list-style: none;
+    height: 32.8px;
+    float: left;
+    margin-right: 24px;
+    line-height: 24px;
+}
+#whole-top .more{
+    width: 98px;
+    height: 32px;
+    float: right;
+    font-size: 14px;
+    color: #333;
+    line-height: 24px;
+}
+/* 头部结束 */
+/* 中部及以下 */
+.whole-goods{
+    width: 1200px;
+    height: 604px;
+    margin: 0 auto;
+}
+/* 中部开始 */
+.whole-goods .whole-middle{
+    width: 1200px;
+    height: 604px;
+    margin: 0 auto;
+}
+.whole-goods .whole-middle .whole-mid{
+    width: 1210px;
+    height: 604px;
+    margin-left: -10px;
+    padding: 0;
+}
+.whole-goods .whole-middle .whole-mid .dif{
+    width: 472px;
+    height: 290px;
+    margin: 0 0 12px 12px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.whole-goods .whole-middle .whole-mid .dif a img{
+    width: 472px;
+    height: 290px;
+}
+.whole-goods .whole-middle .whole-mid li{
+    float: left;
+    list-style: none;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+}
+.whole-goods .whole-middle .whole-mid .goods-items{
+    width: 230px;
+    height: 290px;
+    margin: 0 0 12px 12px;
+}
+.whole-goods .whole-middle .whole-mid .goods-items .thumb{
+    width: 230px;
+    height: 290px;
+    text-decoration: none;
+}
+.whole-goods .whole-middle .whole-mid .goods-items .thumb .goods-img{
+    width: 230px;
+    height: 150px;
+}
+.whole-goods .whole-middle .whole-mid .goods-items .thumb .goods-img p{
+    width: 150px;
+    height: 150px;
+    margin: 35px 40px 0 40px;
+}
+.whole-goods .whole-middle .whole-mid .goods-items .thumb .goods-img p img{
+    width: 150px;
+    height: 150px;
+}
+.whole-goods .whole-middle .whole-mid .goods-items .thumb .goods-title{
+    width: 210px;
+    height: 21px;
+    margin: 12px 10px 0 10px;
+    color: #3a3a3a;
+    font-size: 14px;
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.whole-goods .whole-middle .whole-mid .goods-items .thumb .goods-desc{
+    width: 170px;
+    height: 17.6px;
+    padding: 0 10px;
+    margin: 2px 20px 7px 20px;
+    color: #777;
+    font-size: 12px;
+    text-align: center;
+}
+.whole-goods .whole-middle .whole-mid .goods-items .thumb .goods-price{
+    width: 190px;
+    height: 20.8px;
+    margin: 0 20px;
+    color: #d0021b;
+    font-size: 14px;
+    text-align: center;
+}
+/* 智能路由到精选配件结束 */

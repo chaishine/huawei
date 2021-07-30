@@ -1,0 +1,30 @@
+{
+  "id": "2690045",
+  "name": "demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18175003",
+      "name": "单箭头,单角符,右",
+      "font_class": "mono-right-full",
+      "unicode": "ea56",
+      "unicode_decimal": 59990
+    },
+    {
+      "icon_id": "538878",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "18175002",
+      "name": "单箭头,单角符,右",
+      "font_class": "mono-right",
+      "unicode": "ea55",
+      "unicode_decimal": 59989
+    }
+  ]
+}

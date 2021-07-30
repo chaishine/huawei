@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<style type="text/css">
+			img{
+				display: block;
+				margin: auto;
+			}
+		</style>
+	</head>
+	<body>
+		<img src="../img/bg-slide.png" width="1226px" height="300px" >
+		<script type="text/javascript">
+			/**
+			 * 轮播图
+			 *    图片每隔2秒更改一张图片
+			 *    一共五张图片依次去更改
+			 */
+			var array = ["../img/right.png","../img/bottom.png"]
+            
+			var i = 0;
+			setInterval(function(){
+				var imgElement = document.querySelector("img");
+				imgElement.setAttribute("src",array[i])
+				i++;
+				if(i == 2){
+					i = 0;
+				}
+			},2000)
+		</script>
+	</body>
+</html>
